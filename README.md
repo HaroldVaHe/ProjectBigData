@@ -13,14 +13,15 @@ Este proyecto tiene como objetivo analizar y transformar un dataset de **Crime D
 6. Dejar un entorno reproducible para futuros análisis.
 
 ---
-
 ## 📂 Estructura del Proyecto
+```bash
 📦 crime-data-project
  ┣ 📂 data
  ┃ ┣ Crime_Data_from_2020_to_Present.parquet
  ┣ 📂 scripts
  ┃ ┣ ExtraccionDeDatos.py
  ┗ README.md
+```
 
 ## 🛠️ Tecnologías utilizadas
 
