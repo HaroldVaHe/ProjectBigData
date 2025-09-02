@@ -6,7 +6,7 @@ services:
     environment:
       POSTGRES_USER: psqluser
       POSTGRES_PASSWORD: psqlpass
-      POSTGRES_DB: BigdataFinalB
+      POSTGRES_DB: BigdataFinal
     ports:
       - "5433:5432"
     volumes:
