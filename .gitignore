@@ -12,3 +12,13 @@ cluster_statistics.csv
 *.csv
 *.png
 *.csv
+ipynbTOpy.py
+cluster_statistics.csv
+cluster_statistics.csv
+crime_trends_by_year.png
+heatmap_interactivo.html
+la_crime_clusters_interactive.html
+la_crime_clusters_map.png
+la_crime_density_map.png
+missing_values_analysis.png
+outliers_summary.csv
